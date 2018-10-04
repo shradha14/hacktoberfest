@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [shradha](https://github.com/shradha14)
+- Place: Jhansi,Uttarpradesh, India
+- Bio: web developer python and c++
+- GitHub: [GitHub account name](GitHub link)
